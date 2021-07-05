@@ -23,7 +23,7 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
   * [TRENDS 2015](https://www.concurrency-theory.org/events/workshops/trends/2015) held on September 5, 2015 in Madrid, Spain,
   * [TRENDS 2014](http://ceres.hh.se/mediawiki/TRENDS_2014) held on September 6, 2014 in Rome, Italy,
   * [TRENDS 2013](http://www.win.tue.nl/trends13/) held on August 31, 2013 in Buenos Aires, Argentina, and
-  * [TRENDS 2012 ](http://www.win.tue.nl/trends12/)held on September 8, 2012 in Newcastle upon Tyne, UK .
+  * [TRENDS 2012](http://www.win.tue.nl/trends12/) held on September 8, 2012 in Newcastle upon Tyne, UK .
 
 * Open Problems in Concurrency Theory (OPCT): a series of seminars dedicated to invited presentations on the open problems in the field:
 
@@ -112,7 +112,7 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 
 **Chairpersons and Secretaries**
 
-* As of 2021, the WG is chaired by [Pedro D'Argenio](https://depend.cs.uni-saarland.de/~argenio/), assisted by[ Ana Sokolova](http://cs.uni-salzburg.at/~anas/index.html) (secretary).
+* As of 2021, the WG is chaired by [Pedro D'Argenio](https://depend.cs.uni-saarland.de/~argenio/), assisted by [Ana Sokolova](http://cs.uni-salzburg.at/~anas/index.html) (secretary).
 
 * From 2014 to 2020 [Ilaria Castellani](http://www-sop.inria.fr/members/Ilaria.Castellani/Home.html) was the chairperson assisted by[ Mohammad Mousavi](https://www2.le.ac.uk/departments/informatics/people/mohammad-mousavi) (secretary).
 
