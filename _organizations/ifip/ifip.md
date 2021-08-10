@@ -15,7 +15,8 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 
 * TRENDS: The working group organizes an annual workshop on "Trends in Concurrency Theory" co-located with the International Conference on Concurrency Theory (CONCUR). Below are the links to the web pages of the current / past editions:
 
-  * [TRENDS 2020](https://www.concurrency-theory.org/events/workshops/trends) to be held online on September 5, 2020
+  * [TRENDS 2021](https://www.concurrency-theory.org/events/workshops/trends/2021) to be held online on August 28, 2021
+  * [TRENDS 2020](https://www.concurrency-theory.org/events/workshops/trends/2020) held online on September 5, 2020
   * [TRENDS 2019](https://www.concurrency-theory.org/events/workshops/trends/2019) held on August 31 in Amsterdam, The Netherlands,
   * [TRENDS 2018](https://www.concurrency-theory.org/events/workshops/trends/2018) held on September 8 in Beijing, China,
   * [TRENDS 2017](https://www.concurrency-theory.org/events/workshops/trends/2017) held on September 9 in Berlin, Germany,
