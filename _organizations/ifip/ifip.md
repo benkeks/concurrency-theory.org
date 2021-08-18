@@ -35,13 +35,13 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 **Members**
 
 1. [Luca Aceto](http://www.ru.is/~luca/), Reykjavik University, Iceland
-2. [Pedro D'Argenio](http://www.cs.famaf.unc.edu.ar/~dargenio/), Universidad Nacional de Córdoba, AR
+2. [Pedro D'Argenio](http://www.cs.famaf.unc.edu.ar/~dargenio/), Universidad Nacional de Córdoba, AR (Chair)
 3. [Jos Baeten](http://www.win.tue.nl/~josb/), Eindhoven University of Technology, NL
 4. [Marco Bernardo](http://www.sti.uniurb.it/bernardo/), Università di Urbino, IT
 5. [Michele Boreale](http://rap.dsi.unifi.it/~boreale/), Università di Firenze, IT
 6. [Patricia Bouyer-Decitre](http://www.lsv.ens-cachan.fr/~bouyer/), ENS-Cachan, FR
 7. [Luca Cardelli](http://lucacardelli.name/), Microsoft Research, UK
-8. [Ilaria Castellani](http://www-sop.inria.fr/members/Ilaria.Castellani/Home.html), INRIA Sophia Antipolis, FR (Chair)
+8. [Ilaria Castellani](http://www-sop.inria.fr/members/Ilaria.Castellani/Home.html), INRIA Sophia Antipolis, FR
 9. [Flavio Corradini](http://www.cs.unicam.it/corradini/), Università di Camerino, IT
 10. [Silvia Crafa](http://www.math.unipd.it/~crafa/), Università di Padova, IT
 11. [Vincent Danos](http://homepages.inf.ed.ac.uk/vdanos/home_page.html), CNRS and Paris VII, FR
@@ -53,7 +53,7 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 17. [Yuxi Fu](http://basics.sjtu.edu.cn/~yuxi/), Shanghai Jiaotong University, CN
 18. [Paul Gastin](http://www.lsv.ens-cachan.fr/~gastin/), ENS-Cachan, FR
 19. [Hubert Garavel](http://www.inrialpes.fr/vasy/people/Hubert.Garavel/), INRIA Grenoble, FR
-20. [Rob van Glabbeek](http://theory.stanford.edu/~rvg/)[, NICTA, Australia ](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/g/Garavel:Hubert.html)
+20. [Rob van Glabbeek](http://theory.stanford.edu/~rvg/), NICTA, Australia
 21. [Ursula Goltz](https://www.tu-braunschweig.de/ips/staff/goltz), TU Braunschweig, DE
 22. [Holger Hermanns](http://depend.cs.uni-sb.de/index.php?id=166), Saarland University, DE
 23. [Joost-Pieter Katoen](http://www-i2.informatik.rwth-aachen.de/~katoen/), RWTH Aachen University, DE
@@ -67,7 +67,7 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 31. [Xinxin Liu](http://lcs.ios.ac.cn/en/wiki/Xinxin_LIU), Chinese Academy of Sciences, CN
 32. [Bas Luttik](http://www.win.tue.nl/~luttik/), Eindhoven University of Technology, NL
 33. [Ugo Montanari](http://www.di.unipi.it/~ugo/), Università di Pisa, IT
-34. [Mohammad Mousavi](http://ceres.hh.se/mediawiki/index.php/Mohammad_Reza_Mousavi), University of Leicester, UK (Secretary)
+34. [Mohammad Mousavi](http://ceres.hh.se/mediawiki/index.php/Mohammad_Reza_Mousavi), University of Leicester, UK
 35. [Madhavan Mukund](http://www.cmi.ac.in/~madhavan/), Chennai Mathematical Institute, India
 36. [Uwe Nestmann](https://www.mtv.tu-berlin.de/nestmann/), TU Berlin, DE
 37. [Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/), INRIA Saclay, FR
@@ -79,7 +79,7 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 43. [Steve Schneider](http://www.surrey.ac.uk/computing/people/steve_schneider/), Royal Holloway, UK
 44. [Alexandra Silva](http://www.alexandrasilva.org/), University College London, UK
 45. [Scott Smolka](http://www3.cs.stonybrook.edu/~sas/), SUNY Sony Brook, USA
-46. [Ana Sokolova](http://cs.uni-salzburg.at/~anas/Ana_Sokolova/index.html), Salzburg University, AT
+46. [Ana Sokolova](http://cs.uni-salzburg.at/~anas/Ana_Sokolova/index.html), Salzburg University, AT (Secretary)
 47. [Colin Stirling](http://homepages.inf.ed.ac.uk/cps/), University of Edinburgh, UK
 48. [Irek Ulidowski](http://www.cs.le.ac.uk/people/iu3/), University of Leicester, UK
 49. [Moshe Vardi](http://www.cs.rice.edu/~vardi/), Rice University, USA
