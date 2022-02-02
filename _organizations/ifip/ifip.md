@@ -15,8 +15,9 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 
 * TRENDS: The working group organizes an annual workshop on "Trends in Concurrency Theory" co-located with the International Conference on Concurrency Theory (CONCUR). Below are the links to the web pages of the current / past editions:
 
-  * [TRENDS 2021](https://concurrency-theory.org/events/workshops/trends/2021) to be held online on August 28, 2021
-  * [TRENDS 2020](https://concurrency-theory.org/events/workshops/trends/2020) held online on September 5, 2020
+  * [TRENDS 2022](https://concurrency-theory.org/events/workshops/trends/2022) to be held on September 17, 2022 in Warsaw, Poland,
+  * [TRENDS 2021](https://concurrency-theory.org/events/workshops/trends/2021) held online on August 28, 2021,
+  * [TRENDS 2020](https://concurrency-theory.org/events/workshops/trends/2020) held online on September 5, 2020,
   * [TRENDS 2019](https://concurrency-theory.org/events/workshops/trends/2019) held on August 31 in Amsterdam, The Netherlands,
   * [TRENDS 2018](https://concurrency-theory.org/events/workshops/trends/2018) held on September 8 in Beijing, China,
   * [TRENDS 2017](https://concurrency-theory.org/events/workshops/trends/2017) held on September 9 in Berlin, Germany,
@@ -24,7 +25,7 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
   * [TRENDS 2015](https://concurrency-theory.org/events/workshops/trends/2015) held on September 5, 2015 in Madrid, Spain,
   * [TRENDS 2014](http://ceres.hh.se/mediawiki/TRENDS_2014) held on September 6, 2014 in Rome, Italy,
   * [TRENDS 2013](http://www.win.tue.nl/trends13/) held on August 31, 2013 in Buenos Aires, Argentina, and
-  * [TRENDS 2012](http://www.win.tue.nl/trends12/) held on September 8, 2012 in Newcastle upon Tyne, UK .
+  * [TRENDS 2012](http://www.win.tue.nl/trends12/) held on September 8, 2012 in Newcastle upon Tyne, UK.
 
 * Open Problems in Concurrency Theory (OPCT): a series of seminars dedicated to invited presentations on the open problems in the field:
 
