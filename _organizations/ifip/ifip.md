@@ -96,7 +96,7 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 
 **Relevant Links**
 
-* [Process Algebra Diary](http://processalgebra.blogspot.com/) mantained by [Luca Aceto](http://www.ru.is/faculty/luca/)
+* [Process Algebra Diary](http://processalgebra.blogspot.com/) maintained by [Luca Aceto](http://www.ru.is/faculty/luca/)
 * [CONCUR: The International Conference in Concurrency Theory](https://concurrency-theory.org/events/concur/)
 
 **Past Activities**
