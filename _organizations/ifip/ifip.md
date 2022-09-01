@@ -33,6 +33,12 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
   * [OPCT 2017](http://opct2017.famaf.unc.edu.ar/) from June 25 to June 28 at IST, Austria.
   * [OPCT 2014](http://www.sti.uniurb.it/events/opct2014/) from June 18 to June 21, 2014, in Bertinoro, Italy.
 
+* CONCUR Test of Time award: The award is jointly organized by CONCUR and the IFIP WG 1.8. Its purpose is to recognize important achievements in Concurrency Theory that were published at the CONCUR conference and have stood the test of time:
+
+  * [2020 edition](https://concur2020.forsyte.at/test-of-time.html) 
+  * [2021 edition](https://qonfest2021.lacl.fr/test-of-time.php)
+  * [2022 edition](https://concur2022.mimuw.edu.pl/tot-award/)
+
 **Members**
 
 1. [Luca Aceto](http://www.ru.is/~luca/), Reykjavik University, Iceland
@@ -87,6 +93,11 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 50. [Vasco Vasconcelos](http://www.di.fc.ul.pt/~vv/), University of Lisbon, PT
 51. [Walter Vogler](http://www.informatik.uni-augsburg.de/en/chairs/swt/ti/staff/walter/), Universität Augsburg, DE
 52. [Nobuko Yoshida](http://www.doc.ic.ac.uk/~yoshida/), Imperial College, UK
+
+**Relevant Links**
+
+* [Process Algebra Diary](http://processalgebra.blogspot.com/) mantained by [Luca Aceto](http://www.ru.is/faculty/luca/)
+* [CONCUR: The International Conference in Concurrency Theory](https://concurrency-theory.org/events/concur/)
 
 **Past Activities**
 
