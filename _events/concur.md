@@ -12,7 +12,8 @@ Topics of Interest are all areas of semantics, logics, verification and analysis
 
 ### Conferences
 
-* [CONCUR 2021](https://qonfest2021.lacl.fr/concur21.php) ~~Paris~~ Online
+* [CONCUR 2022](https://concur2022.mimuw.edu.pl/) Warsaw, Poland
+* [CONCUR 2021](https://qonfest2021.lacl.fr/concur21.php) ~~Paris, France~~ Online
 * [CONCUR 2020](https://concur2020.forsyte.at/) ~~Vienna, Austria~~ Online
 * [CONCUR 2019](https://event.cwi.nl/concur2019/) Amsterdam, the Netherlands
 * [CONCUR 2018](https://lcs.ios.ac.cn/concur2018/) Beijing, China
