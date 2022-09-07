@@ -41,10 +41,10 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 
 **Publications**
 
-* [JLAMP Special Issue](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/100VL3RV0MN) on Open Problems in Concurrency Theory
+* [JLAMP Special Issue](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/100VL3RV0MN) on Open Problems in Concurrency Theory (invited contributions from the research seminar OPCT 2017)
 * [JLAMP Special Issue](https://doi.org/10.1016/j.jlamp.2019.07.001) on Trends in Concurrency Theory (selected invited contributions from the workshops TRENDS 2015 and 2016)
 * [JLAMP Special issue](https://doi.org/10.1016/j.jlamp.2017.01.002) on Trends in Concurrency Theory (selected invited contributions from the workshops TRENDS 2014 and 2015)
-* [JLAMP Special Issue](https://doi.org/10.1016/j.jlamp.2015.10.002) on Open Problems in Concurrency Theory
+* [JLAMP Special Issue](https://doi.org/10.1016/j.jlamp.2015.10.002) on Open Problems in Concurrency Theory (invited contributions from the research seminar OPCT 2014)
 
 **Members**
 
