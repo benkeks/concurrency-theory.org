@@ -39,6 +39,13 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
   * [2021 edition](https://qonfest2021.lacl.fr/test-of-time.php)
   * [2020 edition](https://concur2020.forsyte.at/test-of-time.html) 
 
+**Publications**
+
+* [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) Special Issue on [Open Problems in Concurrency Theory](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/100VL3RV0MN)
+* [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) Special Issue on [Trends in Concurrency Theory (selected invited contributions from the workshops TRENDS 2015 and 2016)](https://doi.org/10.1016/j.jlamp.2019.07.001)
+* [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) Special issue on [Trends in Concurrency Theory (selected invited contributions from the workshops TRENDS 2014 and 2015)](https://doi.org/10.1016/j.jlamp.2017.01.002)
+* [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) Special Issue on [Open Problems in Concurrency Theory](https://doi.org/10.1016/j.jlamp.2015.10.002)
+
 **Members**
 
 1. [Luca Aceto](http://www.ru.is/~luca/), Reykjavik University, Iceland
@@ -101,7 +108,6 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 
 **Past Activities**
 
-* IFIP WG 1.8 co-organized a research seminar on
 * Some members of IFIP WG 1.8 organized a workshop on [25 Years of Combining Concurrency and Compositionality (WS25CCC)](https://www.tu-braunschweig.de/ips/research/events/ws25ccc) from August 6 to August 9, 2013 in Königswinter, Germany.
 * IFIP WG 1.8 organized a workshop on *Formal Methods for Embedded Systems* at FMweek in Eindhoven.
 * IFIP WG 1.8 together with IFIP WG 2.2 organized a workshop on "behavioural varieties in concurrency" at CONCUR 2009 in Bologna, on Wednesday 2 September 2009.
