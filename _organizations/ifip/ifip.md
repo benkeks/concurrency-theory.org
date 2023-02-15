@@ -34,7 +34,7 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
   * [OPCT 2017](http://opct2017.famaf.unc.edu.ar/) from June 25 to June 28 at IST, Austria.
   * [OPCT 2014](http://www.sti.uniurb.it/events/opct2014/) from June 18 to June 21, 2014, in Bertinoro, Italy.
 
-* CONCUR Test of Time award: The award is jointly organized by CONCUR and the IFIP WG 1.8. Its purpose is to recognize important achievements in Concurrency Theory that were published at the CONCUR conference and have stood the test of time:
+* [CONCUR Test of Time award](https://concurrency-theory.org/events/tot-award): The award is jointly organized by CONCUR and the IFIP WG 1.8. Its purpose is to recognize important achievements in Concurrency Theory that were published at the CONCUR conference and have stood the test of time:
 
   * [2022 edition](https://concur2022.mimuw.edu.pl/tot-award/)
   * [2021 edition](https://qonfest2021.lacl.fr/test-of-time.php)
