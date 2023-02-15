@@ -109,7 +109,7 @@ The paper “A Theory of Bisimulation for the pi-Calculus”, published by David
 
 ### Period 1990-1993
 
-**Rob van Glabbeek. The Linear Time-Branching Time Spectrum** (in [CONCUR 1999](https://doi.org/10.1007/BFb0039066) and in [CONCUR 1993](https://doi.org/10.1007/3-540-57208-2_6))
+**Rob van Glabbeek. The Linear Time-Branching Time Spectrum** (in [CONCUR 1990](https://doi.org/10.1007/BFb0039066) and in [CONCUR 1993](https://doi.org/10.1007/3-540-57208-2_6))
 
 The companion papers on “The Linear Time-Branching Time Spectrum”, published by Rob van Glabbeek at CONCUR 1990 and 1993, jointly receive one award for offering a highly influential taxonomy of the menagerie of process semantics, both in a setting where every system action is observable and in the presence of silent moves. Each of the plethora of studied semantics comes equipped with a variety of elegant characterisations in terms of modal logics, testing scenarios, relations, and complete axiomatisations. The encyclopedic nature of the above-mentioned papers has made them a must read for researchers in concurrency theory for nearly 30 years.
 
