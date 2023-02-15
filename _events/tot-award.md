@@ -25,7 +25,7 @@ Past editions:
 
 The award winners have been selected by a Jury composed of Ilaria Castellani (chair), Paul Gastin, Orna Kupferman, Mickael Randour, and Davide Sangiorgi. In 2022, four papers were chosen to receive the CONCUR Test of Time Award for the periods 1998–2001 and 2000–2003.
 
-### **Period 2000–2003**
+### Period 2000–2003
 
 **James J. Leifer, Robin Milner. Deriving Bisimulation Congruences for Reactive Systems** (in [CONCUR 2000](https://doi.org/10.1007/3-540-44618-4_19))
 
