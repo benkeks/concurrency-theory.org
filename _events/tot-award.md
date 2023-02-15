@@ -22,7 +22,7 @@ Past editions:
 The award winners have been selected by a Jury composed of Ilaria Castellani (chair), Paul Gastin, Orna Kupferman, Mickael Randour, and Davide Sangiorgi. In 2022, four papers were chosen to receive the CONCUR Test of Time Award for the periods 1998–2001 and 2000–2003.
 
 
-##### Period 2000–2003
+#### Period 2000–2003
 
 James J. Leifer, Robin Milner. Deriving Bisimulation Congruences for Reactive Systems [(in CONCUR 2000)[https://doi.org/10.1007/3-540-44618-4_19]]
 
@@ -39,7 +39,7 @@ The paper studies concurrent two-player games played on timed game structures, a
 (Interview with  Luca de Alfaro, Marco Faella, Thomas A. Henzinger, Rupak Majumdar and Mariëlle Stoelinga by Mickael Randour and Luca Aceto)[https://processalgebra.blogspot.com/2022/06/interview-with-luca-de-alfaro-marco.html].
 
 
-##### Period 1998–2001
+#### Period 1998–2001
 
 Christel Baier, Joost-Pieter Katoen, Holger Hermanns. Approximate symbolic model checking of continuous-time Markov chains [(in CONCUR 1999)[https://doi.org/10.1007/3-540-48320-9_12]]
 
@@ -55,13 +55,12 @@ The paper studies the expressive power of timed automata enriched with stopwatch
 
 
 
-
 ### (CONCUR Test of Time Award 2021)[https://qonfest2021.lacl.fr/test-of-time.php]
 
 The award winners have been selected by a Jury composed of Rob van Glabbeek (chair), Luca de Alfaro, Nathalie Bertrand, Catuscia Palamidessi, and Nobuko Yoshida. In 2021, four papers were chosen to receive the CONCUR Test of Time Award for the periods 1994–1997 and 1996–1999.
 
 
-##### Period 1996–1999
+#### Period 1996–1999
 
 Ahmed Bouajjani, Javier Esparza, and Oded Maler. Reachability Analysis of Pushdown Automata: Application to Model-checking [(in CONCUR 1997)[https://doi.org/10.1007/3-540-63141-0_10]]
 
@@ -77,8 +76,7 @@ Citation: This paper introduces refinement relations, based on simulation and tr
 (Interview with Rajeev Alur, Thomas A. Henzinger, Orna Kupferman and Moshe Y. Vardi by Luca Aceto)[https://processalgebra.blogspot.com/2021/06/interview-with-concur-2021-tot-award.html].
 
 
-
-##### Period 1994–1997
+#### Period 1994–1997
 
 David Janin and Igor Walukiewicz. On the Expressive Completeness of the Propositional mu-Calculus with spect to Monadic Second Order Logic [(in CONCUR 1996)[https://doi.org/10.1007/3-540-61604-7_60]]
 
@@ -93,15 +91,12 @@ Citation: This paper makes major strides in the study of the expressiveness of p
 (Interview with Uwe Nestmann and Benjamin Pierce by Nobuko Yoshida)[http://mrg.doc.ic.ac.uk/concur-tot/].
 
 
-
-
-
 ### (CONCUR Test of Time Award 2020)[https://concur2020.forsyte.at/test-of-time.html]
 
 The award winners have been selected by a Jury composed of Luca Aceto (Chair), Jos Baeten, Patricia Bouyer-Decitre, Holger Hermanns, and Alexandra Silva. In 2020, four papers were chosen to receive the CONCUR Test of Time Award for the periods 1990–1993 and 1992–1995.
 
 
-##### Period 1992-1995
+#### Period 1992-1995
 
 Roberto Segala and Nancy Lynch. Probabilistic simulations for probabilistic processes [(in CONCUR 1994)[https://doi.org/10.1007/978-3-540-48654-1_35]]
 
@@ -116,7 +111,7 @@ The paper “A Theory of Bisimulation for the pi-Calculus”, published by David
 (Interview with Davide Sangiorgi by Luca Aceto)[https://processalgebra.blogspot.com/2020/04/an-interview-with-davide-sangiorgi.html].
 
 
-##### Period 1990-1993
+#### Period 1990-1993
 
 Rob van Glabbeek. The Linear Time-Branching Time Spectrum [(in CONCUR 1999)[https://doi.org/10.1007/BFb0039066]] and [(in CONCUR 1993)[https://doi.org/10.1007/3-540-57208-2_6]]
 
