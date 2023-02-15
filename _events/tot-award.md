@@ -1,3 +1,9 @@
+---
+layout: default
+title: TOT AWARD
+has_children: false
+permalink: events/tot-award
+---
 
 # CONCUR Test of Time Award
 
