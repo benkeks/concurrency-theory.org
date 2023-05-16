@@ -30,6 +30,7 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 
 * Open Problems in Concurrency Theory (OPCT): a series of seminars dedicated to invited presentations on the open problems in the field:
 
+  * [OPCT 2023](http://www.sti.uniurb.it/events/opct2023/) from June 26 to June 30, 2023, in Bertinoro, Italy.
   * [OPCT 2019](https://popl19.sigplan.org/track/opct-2019-papers) (in conjunction with POPL 2019) from January 15 to 16 at Cascais, Portugal.
   * [OPCT 2017](http://opct2017.famaf.unc.edu.ar/) from June 25 to June 28 at IST, Austria.
   * [OPCT 2014](http://www.sti.uniurb.it/events/opct2014/) from June 18 to June 21, 2014, in Bertinoro, Italy.
