@@ -52,7 +52,7 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 
 1. [Luca Aceto](http://www.ru.is/~luca/), Reykjavik University, Iceland
 2. [Pedro D'Argenio](http://www.cs.famaf.unc.edu.ar/~dargenio/), Universidad Nacional de Córdoba, AR (Chair)
-3. [Jos Baeten](http://www.win.tue.nl/~josb/), Eindhoven University of Technology, NL
+3. [Jos Baeten](https://www.cwi.nl/en/people/jos-baeten/), CWI, NL
 4. [Marco Bernardo](http://www.sti.uniurb.it/bernardo/), Università di Urbino, IT
 5. [Michele Boreale](http://rap.dsi.unifi.it/~boreale/), Università di Firenze, IT
 6. [Patricia Bouyer-Decitre](http://www.lsv.ens-cachan.fr/~bouyer/), ENS-Cachan, FR
@@ -83,7 +83,7 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 31. [Xinxin Liu](http://lcs.ios.ac.cn/en/wiki/Xinxin_LIU), Chinese Academy of Sciences, CN
 32. [Bas Luttik](http://www.win.tue.nl/~luttik/), Eindhoven University of Technology, NL
 33. [Ugo Montanari](http://www.di.unipi.it/~ugo/), Università di Pisa, IT
-34. [Mohammad Mousavi](http://ceres.hh.se/mediawiki/index.php/Mohammad_Reza_Mousavi), University of Leicester, UK
+34. [Mohammad Mousavi](https://www.nms.kcl.ac.uk/mohammad.mousavi/), King's College London, UK
 35. [Madhavan Mukund](http://www.cmi.ac.in/~madhavan/), Chennai Mathematical Institute, India
 36. [Uwe Nestmann](https://www.mtv.tu-berlin.de/nestmann/), TU Berlin, DE
 37. [Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/), INRIA Saclay, FR
@@ -93,7 +93,7 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 41. [Bill Roscoe](http://www.cs.ox.ac.uk/bill.roscoe/), Oxford University, UK
 42. [Davide Sangiorgi](http://www.cs.unibo.it/~sangio/), Università di Bologna, IT
 43. [Steve Schneider](http://www.surrey.ac.uk/computing/people/steve_schneider/), Royal Holloway, UK
-44. [Alexandra Silva](http://www.alexandrasilva.org/), University College London, UK
+44. [Alexandra Silva](http://www.alexandrasilva.org/), Cornell University, UK
 45. [Scott Smolka](http://www3.cs.stonybrook.edu/~sas/), SUNY Sony Brook, USA
 46. [Ana Sokolova](http://cs.uni-salzburg.at/~anas/Ana_Sokolova/index.html), Salzburg University, AT (Secretary)
 47. [Colin Stirling](http://homepages.inf.ed.ac.uk/cps/), University of Edinburgh, UK
