@@ -16,9 +16,23 @@ Each Test of Time award is announced in the corresponding CONCUR event by the ju
 
 Past editions:
 
+* [2023](#concur-test-of-time-award-2023)
 * [2022](#concur-test-of-time-award-2022)
 * [2021](#concur-test-of-time-award-2021)
 * [2020](#concur-test-of-time-award-2020)
+
+
+## [CONCUR Test of Time Award 2023](https://www.uantwerpen.be/en/conferences/confest-2023/concur/awards/)
+
+The award winners have been selected by a Jury composed of Marta Kwiatkowska (chair), Bengt Jonsson, and Igor Walukiewicz. In 2023, one paper was chosen to receive the CONCUR Test of Time Award for the period 2002–2005.
+
+### Period 2002–2005
+
+**Vincent Danos, Jean Krivine. Reversible Communicating Systems** (in [CONCUR 2004](https://doi.org/10.1007/978-3-540-28644-8_19))
+
+This paper represents the first exploration of the reversibility of concurrent computation within process algebra. The notion of reversible computation expands the conventional forward computation by incorporating the ability to roll back a computation. The roots of this concept can be traced back to the 1970s, where it was studied by Landauer and Bennett in the context of thermodynamics and Turing machines. They established that any deterministic computation could be simulated by a logically reversible Turing machine.The challenge in applying reversibility to concurrent systems arises from the fact that actions are not linearly organized by execution time but are partially ordered by a causal relationship. The authors put forward the fundamental notion of causally-consistent reversibility capturing the concept that an action can only be undone if all its subsequent effects have been reversed. The introduced notion has direct applicability to reversibility in distributed settings.This paper has since served as a source of inspiration, either directly or indirectly, for numerous studies on reversible concurrent systems modelled through (higher-order) process algebras, Petri nets, event structures, as well as reversible logic circuits made of DNA. The principle of reversibility has a wide range of applications in distributed systems, including debugging, rollback, and error recovery. These applications will undoubtedly continue to benefit from the pioneering and elegant formalization introduced by Danos and Krivine.
+
+[Interview with the authors](https://www.uantwerpen.be/en/conferences/confest-2023/concur/awards/) by Marta Kwiatkowska.
 
 
 ## [CONCUR Test of Time Award 2022](https://concur2022.mimuw.edu.pl/tot-award/)
