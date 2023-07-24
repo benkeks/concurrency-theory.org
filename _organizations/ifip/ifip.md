@@ -37,6 +37,7 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 
 * [CONCUR Test of Time award](https://concurrency-theory.org/events/tot-award): The award is jointly organized by CONCUR and the IFIP WG 1.8. Its purpose is to recognize important achievements in Concurrency Theory that were published at the CONCUR conference and have stood the test of time:
 
+  * [2023 edition](https://www.uantwerpen.be/en/conferences/confest-2023/concur/awards/)
   * [2022 edition](https://concur2022.mimuw.edu.pl/tot-award/)
   * [2021 edition](https://qonfest2021.lacl.fr/test-of-time.php)
   * [2020 edition](https://concur2020.forsyte.at/test-of-time.html) 
