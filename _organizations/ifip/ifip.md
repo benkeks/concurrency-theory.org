@@ -111,17 +111,6 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 
 1. [Ursula Goltz](https://www.tu-braunschweig.de/ips/staff/goltz), TU Braunschweig, DE
 
-**Relevant Links**
-
-* [Process Algebra Diary](http://processalgebra.blogspot.com/) maintained by [Luca Aceto](http://www.ru.is/faculty/luca/)
-* [CONCUR: The International Conference in Concurrency Theory](https://concurrency-theory.org/events/concur/)
-
-**Past Activities**
-
-* Some members of IFIP WG 1.8 organized a workshop on [25 Years of Combining Concurrency and Compositionality (WS25CCC)](https://www.tu-braunschweig.de/ips/research/events/ws25ccc) from August 6 to August 9, 2013 in Königswinter, Germany.
-* IFIP WG 1.8 organized a workshop on *Formal Methods for Embedded Systems* at FMweek in Eindhoven.
-* IFIP WG 1.8 together with IFIP WG 2.2 organized a workshop on "behavioural varieties in concurrency" at CONCUR 2009 in Bologna, on Wednesday 2 September 2009.
-
 **Past Members**
 
 1. [Martin Abadi](http://users.soe.ucsc.edu/~abadi/home.html), UC Santa Cruz and Google, USA
@@ -138,6 +127,18 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 12. [George Milne](http://www.uwa.edu.au/people/george.milne), The University of Western Australia, Australia
 13. [Eugene Stark](http://bsd7.cs.sunysb.edu/~stark/), SUNY Sony Brook, USA
 14. [P.S. Thiagarajan](https://www.comp.nus.edu.sg/~thiagu/), National University of Singapore, SG
+
+
+**Relevant Links**
+
+* [Process Algebra Diary](http://processalgebra.blogspot.com/) maintained by [Luca Aceto](http://www.ru.is/faculty/luca/)
+* [CONCUR: The International Conference in Concurrency Theory](https://concurrency-theory.org/events/concur/)
+
+**Past Activities**
+
+* Some members of IFIP WG 1.8 organized a workshop on [25 Years of Combining Concurrency and Compositionality (WS25CCC)](https://www.tu-braunschweig.de/ips/research/events/ws25ccc) from August 6 to August 9, 2013 in Königswinter, Germany.
+* IFIP WG 1.8 organized a workshop on *Formal Methods for Embedded Systems* at FMweek in Eindhoven.
+* IFIP WG 1.8 together with IFIP WG 2.2 organized a workshop on "behavioural varieties in concurrency" at CONCUR 2009 in Bologna, on Wednesday 2 September 2009.
 
 **Chairpersons and Secretaries**
 
