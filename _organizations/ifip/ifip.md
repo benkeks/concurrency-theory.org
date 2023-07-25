@@ -90,7 +90,6 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 37. [Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/), INRIA Saclay, FR
 38. [Prakash Panangaden](http://www.cs.mcgill.ca/~prakash/), McGill, CA
 39. [Kirstin Peters](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/), Ausburg University, DE
-41. [Corrado Priami](http://www.cosbi.eu/index.php/people/people-research/corrado-priami), Università di Trento, IT
 42. [Bill Roscoe](http://www.cs.ox.ac.uk/bill.roscoe/), Oxford University, UK
 43. [Davide Sangiorgi](http://www.cs.unibo.it/~sangio/), Università di Bologna, IT
 44. [Steve Schneider](http://www.surrey.ac.uk/computing/people/steve_schneider/), University of Surrey, UK
@@ -125,8 +124,9 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 11. [Anna Labella](https://phd.uniroma1.it/web/ANNA-LABELLA_nC1814_EN.aspx), Università di Roma "La Sapienza", IT
 12. [George Milne](http://www.uwa.edu.au/people/george.milne), The University of Western Australia, Australia
 13. [Alban Ponse](https://staff.fnwi.uva.nl/a.ponse/), University of Amsterdam, NL
-14. [Eugene Stark](http://bsd7.cs.sunysb.edu/~stark/), SUNY Sony Brook, USA
-15. [P.S. Thiagarajan](https://www.comp.nus.edu.sg/~thiagu/), National University of Singapore, SG
+14. [Corrado Priami](http://www.cosbi.eu/index.php/people/people-research/corrado-priami), Università di Trento, IT
+15. [Eugene Stark](http://bsd7.cs.sunysb.edu/~stark/), SUNY Sony Brook, USA
+16. [P.S. Thiagarajan](https://www.comp.nus.edu.sg/~thiagu/), National University of Singapore, SG
 
 
 **Relevant Links**
