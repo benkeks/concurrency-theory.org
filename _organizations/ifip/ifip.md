@@ -86,7 +86,7 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 33. [Ugo Montanari](http://www.di.unipi.it/~ugo/), Università di Pisa, IT
 34. [Mohammad Mousavi](https://www.nms.kcl.ac.uk/mohammad.mousavi/), King's College London, UK
 35. [Madhavan Mukund](http://www.cmi.ac.in/~madhavan/), Chennai Mathematical Institute, IN
-36. [Uwe Nestmann](https://www.tu.berlin/mtv/ueber-uns/leitung), TU Berlin, DE
+36. [Uwe Nestmann](https://www.tu.berlin/mtv/team/leitung/prof-dr-ing-uwe-nestmann), TU Berlin, DE
 37. [Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/), INRIA Saclay, FR
 38. [Prakash Panangaden](http://www.cs.mcgill.ca/~prakash/), McGill, CA
 39. [Kirstin Peters](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/), Ausburg University, DE
