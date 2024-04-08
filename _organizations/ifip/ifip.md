@@ -55,13 +55,13 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 2. [Jos Baeten](https://www.cwi.nl/en/people/jos-baeten/), CWI, NL
 3. [Christel Baier](https://wwwtcs.inf.tu-dresden.de/~baier/), Technische Universität Dresden,DE
 4. [Marco Bernardo](http://www.sti.uniurb.it/bernardo/), Università di Urbino, IT
-5. [Michele Boreale](https://local.disia.unifi.it/boreale/), Università di Firenze, IT
+5. [Michele Boreale](https://labdisia.disia.unifi.it/boreale/), Università di Firenze, IT
 6. [Patricia Bouyer-Decitre](http://www.lsv.ens-cachan.fr/~bouyer/), Université Paris-Saclay, CNRS, ENS Paris-Saclay, FR
 7. [Luca Cardelli](http://lucacardelli.name/), Microsoft Research, UK
 8. [Ilaria Castellani](http://www-sop.inria.fr/members/Ilaria.Castellani/Home.html), INRIA Sophia Antipolis, FR
 9. [Flavio Corradini](https://computerscience.unicam.it/corradini/), Università di Camerino, IT
 10. [Silvia Crafa](http://www.math.unipd.it/~crafa/), Università di Padova, IT
-11. [Vincent Danos](http://homepages.inf.ed.ac.uk/vdanos/home_page.html), CNRS and Paris VII, FR
+11. [Vincent Danos](https://www.di.ens.fr/~danos/), CNRS and Paris VII, FR
 12. [Pedro D'Argenio](http://www.cs.famaf.unc.edu.ar/~dargenio/), Universidad Nacional de Córdoba, AR (Chair)
 13. [Luca de Alfaro](https://luca.dealfaro.com/), UC Santa Cruz, US
 14. [Rocco De Nicola](https://www.imtlucca.it/it/rocco.denicola), IMT Lucca, IT
@@ -69,8 +69,8 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 16. [Wan Fokkink](http://www.cs.vu.nl/~wanf/), Vrije Universiteit Amsterdam and TU Eindhoven, NL
 17. [David de Frutos Escrig](http://www.mat.ucm.es/imi/People/deFrutos_Escrig_David_b.htm), Universidad Compultense Madris, ES
 18. [Yuxi Fu](http://basics.sjtu.edu.cn/~yuxi/), Shanghai Jiaotong University, CN
-19. [Paul Gastin](http://www.lsv.ens-cachan.fr/~gastin/), Université Paris-Saclay, CNRS, ENS Paris-Saclay, FR
-20. [Hubert Garavel](http://www.inrialpes.fr/vasy/people/Hubert.Garavel/), INRIA Grenoble, FR
+19. [Hubert Garavel](http://www.inrialpes.fr/vasy/people/Hubert.Garavel/), INRIA Grenoble, FR
+20. [Paul Gastin](http://www.lsv.ens-cachan.fr/~gastin/), Université Paris-Saclay, CNRS, ENS Paris-Saclay, FR
 21. [Rob van Glabbeek](http://theory.stanford.edu/~rvg/), Universty of Edinburgh, UK
 22. [Holger Hermanns](http://depend.cs.uni-sb.de/index.php?id=166), Saarland University, DE
 23. [Joost-Pieter Katoen](http://www-i2.informatik.rwth-aachen.de/~katoen/), RWTH Aachen University, DE
