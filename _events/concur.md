@@ -12,6 +12,7 @@ Topics of Interest are all areas of semantics, logics, verification and analysis
 
 ### Conferences
 
+* [CONCUR 2024](https://confest2024.github.io/index.html) Calgary, Canada
 * [CONCUR 2023](https://www.uantwerpen.be/en/conferences/confest-2023/concur/) Antwerp, Belgium
 * [CONCUR 2022](https://concur2022.mimuw.edu.pl/) Warsaw, Poland
 * [CONCUR 2021](https://qonfest2021.lacl.fr/concur21.php) ~~Paris, France~~ Online
