@@ -15,7 +15,8 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 
 * TRENDS: The working group organizes an annual workshop on "Trends in Concurrency Theory" co-located with the International Conference on Concurrency Theory (CONCUR). Below are the links to the web pages of the current / past editions:
 
-  * [TRENDS 2023](https://concurrency-theory.org/events/workshops/trends/2023) to be held on September 23, 2023 in Antwerp, Belgium,
+  * [TRENDS 2024](https://concurrency-theory.org/events/workshops/trends/2024) to be held on September 9, 2024 in Calgary, Canada,
+  * [TRENDS 2023](https://concurrency-theory.org/events/workshops/trends/2023) held on September 23, 2023 in Antwerp, Belgium,
   * [TRENDS 2022](https://concurrency-theory.org/events/workshops/trends/2022) held on September 12, 2022 in Warsaw, Poland,
   * [TRENDS 2021](https://concurrency-theory.org/events/workshops/trends/2021) held online on August 28, 2021,
   * [TRENDS 2020](https://concurrency-theory.org/events/workshops/trends/2020) held online on September 5, 2020,
@@ -72,42 +73,40 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 19. [Hubert Garavel](http://www.inrialpes.fr/vasy/people/Hubert.Garavel/), INRIA Grenoble, FR
 20. [Paul Gastin](http://www.lsv.ens-cachan.fr/~gastin/), Université Paris-Saclay, CNRS, ENS Paris-Saclay, FR
 21. [Rob van Glabbeek](http://theory.stanford.edu/~rvg/), Universty of Edinburgh, UK
-22. [Holger Hermanns](http://depend.cs.uni-sb.de/index.php?id=166), Saarland University, DE
-23. [Joost-Pieter Katoen](http://www-i2.informatik.rwth-aachen.de/~katoen/), RWTH Aachen University, DE
-24. [Naoki Kobayashi](http://www-kb.is.s.u-tokyo.ac.jp/~koba/), Tokyo University, JP
-25. [Antonin Kucera](http://www.fi.muni.cz/usr/kucera/), Masaryk University, CZ
-26. [Orna Kupferman](http://www.cs.huji.ac.il/~ornak/), Hebrew University, Jerusalem, IL
-27. [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/), Oxford University, UK
-28. [Cosimo Laneve](http://www.cs.unibo.it/~laneve/), Università di Bologna, IT
-29. [Kim G. Larsen](http://people.cs.aau.dk/~kgl/), BRICS, CISS and Aalborg University, DK
-30. [Huimin Lin](http://lcs.ios.ac.cn/~lhm/), Chinese Academy of Sciences, CN
-31. [Xinxin Liu](https://lcs.ios.ac.cn/en/2019/07/2351/), Chinese Academy of Sciences, CN
-32. [Bas Luttik](http://www.win.tue.nl/~luttik/), Eindhoven University of Technology, NL
-33. [Ugo Montanari](http://www.di.unipi.it/~ugo/), Università di Pisa, IT
-34. [Mohammad Mousavi](https://www.nms.kcl.ac.uk/mohammad.mousavi/), King's College London, UK
-35. [Madhavan Mukund](http://www.cmi.ac.in/~madhavan/), Chennai Mathematical Institute, IN
-36. [Uwe Nestmann](https://www.tu.berlin/mtv/team/leitung/prof-dr-ing-uwe-nestmann), TU Berlin, DE
-37. [Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/), INRIA Saclay, FR
-38. [Prakash Panangaden](http://www.cs.mcgill.ca/~prakash/), McGill, CA
-39. [Kirstin Peters](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/), Ausburg University, DE
-42. [Bill Roscoe](http://www.cs.ox.ac.uk/bill.roscoe/), Oxford University, UK
-43. [Davide Sangiorgi](http://www.cs.unibo.it/~sangio/), Università di Bologna, IT
-44. [Steve Schneider](http://www.surrey.ac.uk/computing/people/steve_schneider/), University of Surrey, UK
-45. [Alexandra Silva](http://www.alexandrasilva.org/), Cornell University, UK
-46. [Scott Smolka](http://www3.cs.stonybrook.edu/~sas/), SUNY Sony Brook, US
-47. [Ana Sokolova](https://www.cs.uni-salzburg.at/~anas/), Salzburg University, AT (Secretary)
-48. [Colin Stirling](http://homepages.inf.ed.ac.uk/cps/), University of Edinburgh, UK
-49. [Mariëlle Stoelinga](https://wwwhome.ewi.utwente.nl/~marielle/),	University of Twente,	NL
-50. [Simone Tini](https://disat.uninsubria.it/~simone.tini/),	University of Insubria,	IT
-51. [Irek Ulidowski](http://www.cs.le.ac.uk/people/iu3/), University of Leicester, UK
-52. [Moshe Vardi](http://www.cs.rice.edu/~vardi/), Rice University, US
-53. [Vasco Vasconcelos](http://www.di.fc.ul.pt/~vv/), University of Lisbon, PT
-54. [Walter Vogler](http://www.informatik.uni-augsburg.de/en/chairs/swt/ti/staff/walter/), Universität Augsburg, DE
-55. [Nobuko Yoshida](https://www.cs.ox.ac.uk/people/nobuko.yoshida/), University of Oxford, UK
+22. [Jan Friso Groote](http://www.win.tue.nl/~jfg/), Eindhoven University of Technology, NL
+23. [Holger Hermanns](http://depend.cs.uni-sb.de/index.php?id=166), Saarland University, DE
+24. [Joost-Pieter Katoen](http://www-i2.informatik.rwth-aachen.de/~katoen/), RWTH Aachen University, DE
+25. [Naoki Kobayashi](http://www-kb.is.s.u-tokyo.ac.jp/~koba/), Tokyo University, JP
+26. [Antonin Kucera](http://www.fi.muni.cz/usr/kucera/), Masaryk University, CZ
+27. [Orna Kupferman](http://www.cs.huji.ac.il/~ornak/), Hebrew University, Jerusalem, IL
+28. [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/), Oxford University, UK
+29. [Cosimo Laneve](http://www.cs.unibo.it/~laneve/), Università di Bologna, IT
+30. [Kim G. Larsen](http://people.cs.aau.dk/~kgl/), BRICS, CISS and Aalborg University, DK
+31. [Huimin Lin](http://lcs.ios.ac.cn/~lhm/), Chinese Academy of Sciences, CN
+32. [Xinxin Liu](https://lcs.ios.ac.cn/en/2019/07/2351/), Chinese Academy of Sciences, CN
+33. [Bas Luttik](http://www.win.tue.nl/~luttik/), Eindhoven University of Technology, NL
+34. [Ugo Montanari](http://www.di.unipi.it/~ugo/), Università di Pisa, IT
+35. [Mohammad Mousavi](https://www.nms.kcl.ac.uk/mohammad.mousavi/), King's College London, UK
+36. [Madhavan Mukund](http://www.cmi.ac.in/~madhavan/), Chennai Mathematical Institute, IN
+37. [Uwe Nestmann](https://www.tu.berlin/mtv/team/leitung/prof-dr-ing-uwe-nestmann), TU Berlin, DE
+38. [Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/), INRIA Saclay, FR
+39. [Prakash Panangaden](http://www.cs.mcgill.ca/~prakash/), McGill, CA
+40. [Kirstin Peters](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/), Ausburg University, DE
+41. [Bill Roscoe](http://www.cs.ox.ac.uk/bill.roscoe/), Oxford University, UK
+42. [Davide Sangiorgi](http://www.cs.unibo.it/~sangio/), Università di Bologna, IT
+43. [Steve Schneider](http://www.surrey.ac.uk/computing/people/steve_schneider/), University of Surrey, UK
+44. [Alexandra Silva](http://www.alexandrasilva.org/), Cornell University, UK
+45. [Scott Smolka](http://www3.cs.stonybrook.edu/~sas/), SUNY Sony Brook, US
+46. [Ana Sokolova](https://www.cs.uni-salzburg.at/~anas/), Salzburg University, AT (Secretary)
+47. [Mariëlle Stoelinga](https://wwwhome.ewi.utwente.nl/~marielle/),	University of Twente,	NL
+48. [Simone Tini](https://disat.uninsubria.it/~simone.tini/),	University of Insubria,	IT
+49. [Irek Ulidowski](http://www.cs.le.ac.uk/people/iu3/), University of Leicester, UK
+50. [Moshe Vardi](http://www.cs.rice.edu/~vardi/), Rice University, US
+51. [Vasco Vasconcelos](http://www.di.fc.ul.pt/~vv/), University of Lisbon, PT
+52. [Nobuko Yoshida](https://www.cs.ox.ac.uk/people/nobuko.yoshida/), University of Oxford, UK
 
 **Emeriti members**
 
-1. [Ursula Goltz](https://www.tu-braunschweig.de/ips/staff/goltz), TU Braunschweig, DE
 
 **Past Members**
 
@@ -116,8 +115,8 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 3. [Jan Bergstra](https://staff.fnwi.uva.nl/j.a.bergstra/), University of Amsterdam, NL
 4. [Gerard Boudol](http://www-sop.inria.fr/members/Gerard.Boudol/), INRIA Sophia Antipolis, FR
 5. [Zoltan Esik](http://www.inf.u-szeged.hu/~ze/), University of Szeged, HU ([in memoriam](http://www.ae-info.org/ae/Acad_Main/News_Archive/Zoltan%20Esik))
-6. [Andrew D. Gordon](https://onedrive.live.com/view.aspx/adg?cid=c6149b019d236bf5), Microsoft Research, UK
-7. [Jan Friso Groote](http://www.win.tue.nl/~jfg/), Eindhoven University of Technology, NL
+6. [Ursula Goltz](https://www.tu-braunschweig.de/ips/staff/goltz), TU Braunschweig, DE
+7. [Andrew D. Gordon](https://onedrive.live.com/view.aspx/adg?cid=c6149b019d236bf5), Microsoft Research, UK
 8. [Matthew Hennessy](https://www.cs.tcd.ie/Matthew.Hennessy/), Trinity College Dublin, IE
 9. [Kohei Honda](http://www.eecs.qmul.ac.uk/KHmemorial/), Queen Mary College London, UK ([some photos](http://www.eecs.qmul.ac.uk/KHmemorial/photos.html))
 10. [Anna Ingolfsdottir](http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/i/Ing=oacute=lfsd=oacute=ttir:Anna.html), Reykjavik University, Iceland
@@ -126,7 +125,9 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 13. [Alban Ponse](https://staff.fnwi.uva.nl/a.ponse/), University of Amsterdam, NL
 14. [Corrado Priami](http://www.cosbi.eu/index.php/people/people-research/corrado-priami), Università di Trento, IT
 15. [Eugene Stark](http://bsd7.cs.sunysb.edu/~stark/), SUNY Sony Brook, USA
-16. [P.S. Thiagarajan](https://www.comp.nus.edu.sg/~thiagu/), National University of Singapore, SG
+16. [Colin Stirling](http://homepages.inf.ed.ac.uk/cps/), University of Edinburgh, UK
+17. [P.S. Thiagarajan](https://www.comp.nus.edu.sg/~thiagu/), National University of Singapore, SG
+18. [Walter Vogler](http://www.informatik.uni-augsburg.de/en/chairs/swt/ti/staff/walter/), Universität Augsburg, DE
 
 
 **Relevant Links**
