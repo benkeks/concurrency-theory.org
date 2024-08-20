@@ -16,11 +16,31 @@ Each Test of Time award is announced in the corresponding CONCUR event by the ju
 
 Past editions:
 
+* [2024](#concur-test-of-time-award-2024)
 * [2023](#concur-test-of-time-award-2023)
 * [2022](#concur-test-of-time-award-2022)
 * [2021](#concur-test-of-time-award-2021)
 * [2020](#concur-test-of-time-award-2020)
 
+## [CONCUR Test of Time Award 2024](https://confest2024.github.io/CONCUR_awards.html)
+
+The award winners have been selected by a Jury composed of Frits Vaandrager (chair), Christel Baier, and Luis Caires. In 2023, one paper was chosen to receive the CONCUR Test of Time Award for the period 2004–2007.
+
+### Period 2004–2007
+
+**Stephen D. Brookes. A semantics for concurrent separation logic** (in [CONCUR 2004](https://doi.org/10.1007/978-3-540-28644-8_2))
+
+**Peter W. O’Hearn. Resources, concurrency and local reasoning** (in [CONCUR 2004](https://doi.org/10.1007/978-3-540-28644-8_4))
+
+At the turn of the millennium, the quest for Hoare-style logics for imperative programs with pointers and aliasing was considered to be one of the most difficult challenges for program verification. The proposals available by then were often too complex to handle even simple examples, much less the kind of software routinely found in industrial code bases. This state of affairs changed when Reynolds, O’Hearn, Istiaq and Yang invented Separation Logic (SL). In his LICS 2002 paper, Reynolds cites unpublished preliminary work by O’Hearn aiming to extend SL to shared state concurrent programs. The key idea was that “as program variables are syntactically partitioned into groups owned by different processes and resources, so the heap should be similarly partitioned by separating conjunctions in the proof of the program”. He also adds: “Unfortunately, at this writing, there is no proof that O’Hearn’s inference rules are sound”.
+
+These difficulties were elegantly overcome by the two invited Concur 2004 papers introducing Concurrent Separation Logic (CSL), authored respectively by O’Hearn and Brookes. In his Concur 2004 paper “Resources, Concurrency, and Local Reasoning”, O’Hearn eloquently expounds how the underlying principles of separation logic would naturally embrace the world of concurrent programs with shared state and basic synchronization primitives. While introducing CSL and its proof rules, O’Hearn presents remarkably simple proofs for numerous challenging examples, highlighting the practicality of the logic’s abstractions. Moreover, he motivates and details a general method for designing CSL proofs based on the intuitive concepts of separation, resource ownership, and resource ownership transfer.
+
+The soundness of CSL was at the time solved after a key suggestion of Brookes, by requiring shared resource invariants to be “precise”, that is, expressed by assertions that uniquely identify a well-delimited part of the heap. In his Concur 2004 paper, “A Semantics for Concurrent Separation Logic”, Brookes develops a novel action-trace semantics for the basic concurrent programming language of CSL, which permits the first proof of soundness for CSL. Brookes’ semantics was also the first race-sensitive denotational model for concurrent programs, a construction of independent interest, and essential to proving the famous “no races” theorem for CSL. This collection of contributions was crucial to establish CSL as the most prominent approach for reasoning about concurrent shared state programs until today.
+
+The Concur 2004 papers by O’Hearn and Brookes frequently refer to each other, and are delightful to read as a whole; it is very fortunate that they appeared in the same edition of Concur. Since then, CSL has been a constant source of inspiration for the scientific community, motivating many theoretical and practical developments important to tackle increasingly sophisticated real-world concurrent shared state programming scenarios including higher-order languages, storable locks, expressive permissions mechanisms, fine-grained concurrency, weak memory concurrency, verification of type systems (e.g., Rust), linearizability, program refinement, crash safety, non-interference, and incorrectness logic. CSL has been adapted as part of mature research tools such as Verifast, Viper, Iris, VST, and F*, and it has been used in an industrial setting for among others the verification of concurrent data structures and micro-kernels/hypervisors.
+
+[Interview with the authors]() (Not yet available)
 
 ## [CONCUR Test of Time Award 2023](https://www.uantwerpen.be/en/conferences/confest-2023/concur/awards/)
 
@@ -33,7 +53,6 @@ The award winners have been selected by a Jury composed of Marta Kwiatkowska (ch
 This paper represents the first exploration of the reversibility of concurrent computation within process algebra. The notion of reversible computation expands the conventional forward computation by incorporating the ability to roll back a computation. The roots of this concept can be traced back to the 1970s, where it was studied by Landauer and Bennett in the context of thermodynamics and Turing machines. They established that any deterministic computation could be simulated by a logically reversible Turing machine.The challenge in applying reversibility to concurrent systems arises from the fact that actions are not linearly organized by execution time but are partially ordered by a causal relationship. The authors put forward the fundamental notion of causally-consistent reversibility capturing the concept that an action can only be undone if all its subsequent effects have been reversed. The introduced notion has direct applicability to reversibility in distributed settings.This paper has since served as a source of inspiration, either directly or indirectly, for numerous studies on reversible concurrent systems modelled through (higher-order) process algebras, Petri nets, event structures, as well as reversible logic circuits made of DNA. The principle of reversibility has a wide range of applications in distributed systems, including debugging, rollback, and error recovery. These applications will undoubtedly continue to benefit from the pioneering and elegant formalization introduced by Danos and Krivine.
 
 [Interview with the authors](https://www.uantwerpen.be/en/conferences/confest-2023/concur/awards/) by Marta Kwiatkowska.
-
 
 ## [CONCUR Test of Time Award 2022](https://concur2022.mimuw.edu.pl/tot-award/)
 
