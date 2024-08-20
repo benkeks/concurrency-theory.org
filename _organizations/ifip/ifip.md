@@ -105,10 +105,8 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 51. [Vasco Vasconcelos](http://www.di.fc.ul.pt/~vv/), University of Lisbon, PT
 52. [Nobuko Yoshida](https://www.cs.ox.ac.uk/people/nobuko.yoshida/), University of Oxford, UK
 
-**Emeriti members**
 
-
-**Past Members**
+**Honorary Members**
 
 1. [Martin Abadi](http://users.soe.ucsc.edu/~abadi/home.html), UC Santa Cruz and Google, USA
 2. [Roberto Amadio](http://www.pps.univ-paris-diderot.fr/~amadio/), Université de Paris 7, FR
