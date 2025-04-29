@@ -13,7 +13,7 @@ Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 unde
 
 **<font color="#ff4444">Highlights</font>**
 
-The [Colloquium on Principles of Formal Quantitative Analysis](https://wwwtcs.inf.tu-dresden.de/ALGI/PFQA/) on the occasion of Christel Baier’s birthday  is organized as an IFIP WP 1.8 event. It will take place on Saturday, 30 of August of 2025 associated to [CONCUR 2025](https://conferences.au.dk/confest2025/concur) in Aarhus, Denmark.
+The [Colloquium on Principles of Formal Quantitative Analysis](https://wwwtcs.inf.tu-dresden.de/ALGI/PFQA/) on the occasion of [Christel Baier](https://wwwtcs.inf.tu-dresden.de/~baier/)’s birthday  is organized as an IFIP WP 1.8 event. It will take place on Saturday, 30 of August of 2025 associated to [CONCUR 2025](https://conferences.au.dk/confest2025/concur) in Aarhus, Denmark.
 
 **Regular Activities**
 
