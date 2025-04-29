@@ -11,7 +11,7 @@ nav_order: 1
 
 Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 under Technical Committee [TC1 Foundations of Computer Science](http://www.ifip-tc1.org/) of [IFIP](http://www.ifip.org/). The main aim of this working group, among [others](http://www.ru.is/faculty/luca/IFIPWG1.8/aim.html), is to develop the theoretical foundations of concurrency, exploring the frontiers of existing theoretical models like process algebra and various process calculi, so as to obtain a deeper theoretical understanding of concurrent and parallel systems.
 
-**Highlights**
+**<font color="red">Highlights</font>**
 
 The [Colloquium on Principles of Formal Quantitative Analysis](https://wwwtcs.inf.tu-dresden.de/ALGI/PFQA/) on the occasion of Christel Baier’s birthday  is organized as an IFIP WP 1.8 event. It will take place on Saturday, 30 of August of 2025 associated to [CONCUR 2025](https://conferences.au.dk/confest2025/concur) in Aarhus, Denmark.
 
