@@ -90,7 +90,7 @@ The [Colloquium on Principles of Formal Quantitative Analysis](https://wwwtcs.in
 32. [Xinxin Liu](https://lcs.ios.ac.cn/en/2019/07/2351/), Chinese Academy of Sciences, CN
 33. [Bas Luttik](http://www.win.tue.nl/~luttik/), Eindhoven University of Technology, NL
 34. [Ugo Montanari](http://www.di.unipi.it/~ugo/), Università di Pisa, IT
-35. [Mohammad Mousavi](https://www.nms.kcl.ac.uk/mohammad.mousavi/), King's College London, UK
+35. [Mohammad Mousavi](https://www.kcl.ac.uk/people/mohammad-reza-mousavi), King's College London, UK
 36. [Madhavan Mukund](http://www.cmi.ac.in/~madhavan/), Chennai Mathematical Institute, IN
 37. [Uwe Nestmann](https://www.tu.berlin/mtv/team/leitung/prof-dr-ing-uwe-nestmann), TU Berlin, DE
 38. [Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/), INRIA Saclay, FR
@@ -102,7 +102,7 @@ The [Colloquium on Principles of Formal Quantitative Analysis](https://wwwtcs.in
 44. [Alexandra Silva](http://www.alexandrasilva.org/), Cornell University, UK
 45. [Scott Smolka](http://www3.cs.stonybrook.edu/~sas/), SUNY Sony Brook, US
 46. [Ana Sokolova](https://www.cs.uni-salzburg.at/~anas/), Salzburg University, AT (Secretary)
-47. [Mariëlle Stoelinga](https://wwwhome.ewi.utwente.nl/~marielle/),	University of Twente,	NL
+47. [Mariëlle Stoelinga](https://people.utwente.nl/m.i.a.stoelinga),	University of Twente,	NL
 48. [Simone Tini](https://disat.uninsubria.it/~simone.tini/),	University of Insubria,	IT
 49. [Irek Ulidowski](http://www.cs.le.ac.uk/people/iu3/), University of Leicester, UK
 50. [Moshe Vardi](http://www.cs.rice.edu/~vardi/), Rice University, US
