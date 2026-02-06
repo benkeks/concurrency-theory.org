@@ -7,6 +7,7 @@ This is the git repository of the website <https://concurrency-theory.org>. The 
 This site can be built locally using Bundler and Jekyll.
 
 ```
+bundle config set path 'vendor/bundle'
 bundle install
 bundle exec jekyll serve --livereload
 ```
