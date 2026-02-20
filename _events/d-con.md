@@ -13,7 +13,7 @@ The founders were Barbara König, Michael Mendler, Markus Müller-Olm and Uwe Ne
 
 ### Meetings
 
-- D-CON 2026 Berlin
+- [D-CON 2026](https://www.tu.berlin/en/mtv/research/events/d-con-2026) Berlin
 - [D-CON 2025](https://intranet.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/forschung/d-con-2025/) Augsburg
 - [D-CON 2024](https://uol.de/informatik/formale-methoden/forschung/workshops/d-con-2024) Oldenburg
 - [D-CON 2023](https://fm2023.isp.uni-luebeck.de/index.php/co-located-events/#dcon) Lübeck (Co-located with FM 2023)
