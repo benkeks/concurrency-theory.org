@@ -11,15 +11,12 @@ nav_order: 1
 
 Welcome to the home page of WG 1.8 "Concurrency Theory" established in 2005 under Technical Committee [TC1 Foundations of Computer Science](http://www.ifip-tc1.org/) of [IFIP](http://www.ifip.org/). The main aim of this working group, among [others](http://www.ru.is/faculty/luca/IFIPWG1.8/aim.html), is to develop the theoretical foundations of concurrency, exploring the frontiers of existing theoretical models like process algebra and various process calculi, so as to obtain a deeper theoretical understanding of concurrent and parallel systems.
 
-**<font color="#ff4444">Highlights</font>**
-
-The [Colloquium on Principles of Formal Quantitative Analysis](https://wwwtcs.inf.tu-dresden.de/ALGI/PFQA/) on the occasion of [Christel Baier](https://wwwtcs.inf.tu-dresden.de/~baier/)’s birthday  is organized as an IFIP WP 1.8 event. It will take place on Saturday, 30 of August of 2025 associated to [CONCUR 2025](https://conferences.au.dk/confest2025/concur) in Aarhus, Denmark.
-
 **Regular Activities**
 
 * TRENDS: The working group organizes an annual workshop on "Trends in Concurrency Theory" co-located with the International Conference on Concurrency Theory (CONCUR). Below are the links to the web pages of the current / past editions:
 
-  * [TRENDS 2024](https://concurrency-theory.org/events/workshops/trends/2024) to be held on September 9, 2024 in Calgary, Canada,
+  * [TRENDS 2026](https://concurrency-theory.org/events/workshops/trends/2026) to be held on September 5, 2026 in Liverpool, UK,
+  * [TRENDS 2024](https://concurrency-theory.org/events/workshops/trends/2024) held on September 9, 2024 in Calgary, Canada,
   * [TRENDS 2023](https://concurrency-theory.org/events/workshops/trends/2023) held on September 23, 2023 in Antwerp, Belgium,
   * [TRENDS 2022](https://concurrency-theory.org/events/workshops/trends/2022) held on September 12, 2022 in Warsaw, Poland,
   * [TRENDS 2021](https://concurrency-theory.org/events/workshops/trends/2021) held online on August 28, 2021,
@@ -139,6 +136,7 @@ The [Colloquium on Principles of Formal Quantitative Analysis](https://wwwtcs.in
 
 **Past Activities**
 
+* The [Colloquium on Principles of Formal Quantitative Analysis](https://wwwtcs.inf.tu-dresden.de/ALGI/PFQA/) on the occasion of [Christel Baier](https://wwwtcs.inf.tu-dresden.de/~baier/)’s birthday was organized as an IFIP WP 1.8 event. It took place on Saturday, 30 of August of 2025 associated to [CONCUR 2025](https://conferences.au.dk/confest2025/concur) in Aarhus, Denmark.
 * Some members of IFIP WG 1.8 organized a workshop on [25 Years of Combining Concurrency and Compositionality (WS25CCC)](https://www.tu-braunschweig.de/ips/research/events/ws25ccc) from August 6 to August 9, 2013 in Königswinter, Germany.
 * IFIP WG 1.8 organized a workshop on *Formal Methods for Embedded Systems* at FMweek in Eindhoven.
 * IFIP WG 1.8 together with IFIP WG 2.2 organized a workshop on "behavioural varieties in concurrency" at CONCUR 2009 in Bologna, on Wednesday 2 September 2009.
